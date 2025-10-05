@@ -1,6 +1,6 @@
 # Lars Rüpke
 
-Head [Seafloor Modeling](https://www.geomar.de/en/research/fb4/fb4-muhs/research-topics/modelings) and [Seafloor Morphology](https://www.geomar.de/en/research/fb4/fb4-muhs/research-topics/modelings) groups at GEOMAR Helmholtz Centre for Ocean Research Kiel.
+Head [Seafloor Modeling](https://www.geomar.de/en/research/fb4/fb4-muhs/research-topics/modelings) and [Seafloor Morphology](https://www.geomar.de/en/forschen/fb4/fb4-muhs/schwerpunkte/morphologie-des-meeresbodens) groups at GEOMAR Helmholtz Centre for Ocean Research Kiel.
 
 Personal account.
 
