@@ -1,7 +1,8 @@
 # Lars Rüpke
-Professor at Helmholtz Centre for Ocean Research Kiel (GEOMAR)
 
-Head [Seafloor Modeling](https://www.geomar.de/en/research/fb4/fb4-muhs/research-topics/modelings) and [Seafloor Morphology](https://www.geomar.de/en/research/fb4/fb4-muhs/research-topics/modelings) groups
+Head [Seafloor Modeling](https://www.geomar.de/en/research/fb4/fb4-muhs/research-topics/modelings) and [Seafloor Morphology](https://www.geomar.de/en/research/fb4/fb4-muhs/research-topics/modelings) groups at GEOMAR Helmholtz Centre for Ocean Research Kiel.
+
+Personal account.
 
 I study and model the processes shaping the ocean floor, combining geophysical fluid dynamics, 
 numerical modeling, and seafloor observations.
